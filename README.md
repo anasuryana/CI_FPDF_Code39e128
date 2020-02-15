@@ -1,4 +1,4 @@
-# PDF39e128
+# CI_FPDF_Code39e128
 Codeigniter Library for Generate Barcode code39 and code128 in FPDF
 
 Installation:
