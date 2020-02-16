@@ -8,6 +8,7 @@ Installation:
 
 
 Usage:
+```php
 class Test extends CI_Controller {
 	public function __construct()
 	{
@@ -16,3 +17,4 @@ class Test extends CI_Controller {
     .........
 		$this->load->library('Code39e128');
 	}
+```
